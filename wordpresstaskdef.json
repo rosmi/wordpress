@@ -25,7 +25,7 @@
         }
       ],
       "name": "db",
-      "image": "mysql1",
+      "image": "mysql",
       "cpu": 10,
       "memory": 200,
       "essential": true
