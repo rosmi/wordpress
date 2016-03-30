@@ -22,10 +22,6 @@
         {
           "name": "MYSQL_DATABASE",
           "value": "wordpress"
-        },
-        {
-          "name": "MYSQL_ROOT_PASSWORD",
-          "value":"test"
         }
         
       ],
